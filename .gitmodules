@@ -5,7 +5,7 @@
 [submodule "mix"]
 	path = mix
 	url = https://github.com/ethereum/mix
-	branch = hot_gav
+	branch = develop
 [submodule "solidity"]
 	path = solidity
 	url = https://github.com/ethereum/solidity
