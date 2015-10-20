@@ -21,7 +21,7 @@
 [submodule "libethereum"]
 	path = libethereum
 	url = https://github.com/ethereum/libethereum
-	branch = pv63
+	branch = hot_gav
 [submodule "webthree-helpers"]
 	path = webthree-helpers
 	url = https://github.com/ethereum/webthree-helpers
