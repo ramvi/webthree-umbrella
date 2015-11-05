@@ -17,7 +17,7 @@
 [submodule "libweb3core"]
 	path = libweb3core
 	url = https://github.com/ethereum/libweb3core
-	branch = develop
+	branch = hot_gav
 [submodule "libethereum"]
 	path = libethereum
 	url = https://github.com/ethereum/libethereum
